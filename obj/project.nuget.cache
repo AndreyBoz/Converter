@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HolSep12qM7hkVEx61L+dDWe2mvK8RgWPgPIK5Y8dEHFmH6vEP61lBa8Lf7KdRXqTrmLyQq2l2OwRmZqR/BFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mst\\Desktop\\Trash\\Converter\\Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mst\\.nuget\\packages\\magick.net-q16-anycpu\\12.1.0\\magick.net-q16-anycpu.12.1.0.nupkg.sha512",
+    "C:\\Users\\mst\\.nuget\\packages\\magick.net.core\\12.1.0\\magick.net.core.12.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
